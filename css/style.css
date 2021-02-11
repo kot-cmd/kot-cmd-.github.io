@@ -110,7 +110,7 @@ body {
 }
 
 .header__logo img {
-    padding-left: 40px;
+    width: 120px;
 }
 
 .menu li {
